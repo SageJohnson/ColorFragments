@@ -1,3 +1,10 @@
+/*
+Author: Sage Johnson
+Class: CS3013 - 001
+Instructor: Dr. Elliott Evans
+Date: 21 April 2025
+ */
+
 package edu.msudenver.cs3013.colorfragments
 
 import android.os.Bundle
